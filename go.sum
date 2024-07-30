@@ -1,2 +1,8 @@
-github.com/dogeyboy1932/goPuppy v0.0.0-20240729183531-614639405d9c h1:9odih3c2oXM2Ar38f5iVUMYcxfSnYvaxKfDmE152kp0=
-github.com/dogeyboy1932/goPuppy v0.0.0-20240729183531-614639405d9c/go.mod h1:RI/UwFrXw7STSXmRQZdGZ4moW9TyZfxJ6HkPPNcneDA=
+github.com/dogeyboy1932/goDog v0.0.0-20240729195011-dd68957cf612 h1:IFAAebu9M+UhwKxZU0QEEVALIpOViOUe8iR4nN0wg+o=
+github.com/dogeyboy1932/goDog v0.0.0-20240729195011-dd68957cf612/go.mod h1:uYP2Igg8FkcDKsOuufCk/zu/eqpWgcMWPhA9EzSsj1k=
+github.com/dogeyboy1932/goDog v0.0.0-20240730162935-5ad113798333 h1:SVdP8yr8Cr2Gp3qxYdsk1PemtTD3KE7dCqm0LtYCanU=
+github.com/dogeyboy1932/goDog v0.0.0-20240730162935-5ad113798333/go.mod h1:uYP2Igg8FkcDKsOuufCk/zu/eqpWgcMWPhA9EzSsj1k=
+github.com/dogeyboy1932/goPuppy v0.0.0-20240729195118-643f042606cc h1:qSHEckhjO0k8MgT4itfCVmPvm+4OrxzT180UOKf21TA=
+github.com/dogeyboy1932/goPuppy v0.0.0-20240729195118-643f042606cc/go.mod h1:LIKmrTJfGz/RTP6ZS3TNZe/yP/lZcipklJeQx9n3+UA=
+github.com/dogeyboy1932/goPuppy v0.0.0-20240730162301-2aa76d1ee4a5 h1:b1NZaJoholLBzyTdhlUvAS00Td52ztwo4P3hB6zoz2I=
+github.com/dogeyboy1932/goPuppy v0.0.0-20240730162301-2aa76d1ee4a5/go.mod h1:LIKmrTJfGz/RTP6ZS3TNZe/yP/lZcipklJeQx9n3+UA=
